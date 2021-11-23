@@ -82,7 +82,7 @@ export const vStyles = StyleSheet.create({
         borderColor:'black' ,
         borderStyle:"solid",
         borderEndWidth: 'thin',
-        borderBottomWidth:'thin',
+        borderBottomWidth:1,
     },
     dataContainer:{
         flexDirection:"row",
